@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=SCH Member=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC6_1
+Added Member To Class: ClassName=SCH Member=Component C7 104
+Added Room: Name=SCH

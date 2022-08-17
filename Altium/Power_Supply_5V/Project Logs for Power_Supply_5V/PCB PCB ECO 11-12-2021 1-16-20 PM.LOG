@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Net*2_2 Pin=L3-1
+Removed Pin From Net: NetName=NetC3_1 Pin=L3-2
+Removed Member From Class: ClassName=SCH Member=L3
+Change Component Comment : Designator=C2 Old Comment=102/400V New Comment=102/1KV
+Change Component Designator: OldDesignator=*3 NewDesignator=ts
+Added Component: Designator=L?(CUON CAM 100uH3A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Cu?n C?m 470uH 3A 8x10MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*2_2 Pin=L?-1
+Added Pin To Net: NetName=NetC3_1 Pin=L?-2
+Change Net Name : Old Net Name=Net*3_1 New Net Name=NetD1_3
+Change Net Name : Old Net Name=Net*3_2 New Net Name=NetD1_2
+Added Member To Class: ClassName=SCH Member=Component C3 470uF/10V
+Added Member To Class: ClassName=SCH Member=Component C4 4.7uF/400V
+Added Member To Class: ClassName=SCH Member=Component C5 4.7uF/400V
+Added Member To Class: ClassName=SCH Member=Component C6 104/50V
+Added Member To Class: ClassName=SCH Member=Component L? 10uH
+Added Member To Class: ClassName=SCH Member=Component R2 1k
+Added Member To Class: ClassName=SCH Member=Component R4 1k
+Added Member To Class: ClassName=SCH Member=Component R5 4.7k
+Added Room: Name=SCH

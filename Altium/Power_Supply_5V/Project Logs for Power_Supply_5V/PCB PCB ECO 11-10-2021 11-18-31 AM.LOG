@@ -1,0 +1,6 @@
+Added Component: Designator=C3(Cap CBB)
+Added Component: Designator=C4(Cap CBB)
+Added Component: Designator=C8(C-SE-7,5x10x9x5x4)
+Added Component: Designator=C9(C-SE-7,5x10x9x5x4)
+Added Component: Designator=L1(Inductor UU9.8)
+Added Member To Class: ClassName=SCH Member=Component KF1 DC output

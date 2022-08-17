@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=USB?-1
+Removed Pin From Net: NetName=Lo_gnd Pin=USB?-4
+Removed Pin From Net: NetName=Lo_gnd Pin=USB?-4
+Removed Pin From Net: NetName=Lo_gnd Pin=USB?-4
+Removed Member From Class: ClassName=SCH Member=USB?

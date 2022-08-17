@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Lo_gnd Pin=*3-2
+Removed Pin From Net: NetName=Lo_gnd Pin=*3-3
+Removed Pin From Net: NetName=Lo_gnd Pin=*3-7
+Removed Pin From Net: NetName=Lo_gnd Pin=*3-8
+Removed Pin From Net: NetName=Hi_groud Pin=C2-1
+Removed Pin From Net: NetName=Net*1_1 Pin=C2-2
+Removed Pin From Net: NetName=Lo_gnd Pin=C7-1
+Removed Pin From Net: NetName=Lo_gnd Pin=U1-3
+Removed Member From Class: ClassName=SCH Member=C2
+Added Pin To Net: NetName=Hi_groud Pin=*3-2
+Added Pin To Net: NetName=Hi_groud Pin=*3-3
+Added Pin To Net: NetName=Hi_groud Pin=*3-7
+Added Pin To Net: NetName=Hi_groud Pin=*3-8
+Added Pin To Net: NetName=Hi_groud Pin=C7-1
+Added Pin To Net: NetName=Hi_groud Pin=U1-3
+Added Member To Class: ClassName=SCH Member=Component KF1 DC out
+Added Room: Name=SCH

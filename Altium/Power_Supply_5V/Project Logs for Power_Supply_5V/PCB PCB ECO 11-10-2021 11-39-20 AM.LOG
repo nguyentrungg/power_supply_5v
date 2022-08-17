@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Added Component: Designator=C6(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 4.7uF 400V 8x12MM"; VariantName = "[No Variations]"
+Added Component: Designator=C7(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 4.7uF 400V 8x12MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*2_1 Pin=C6-1
+Added Pin To Net: NetName=Hi_groud Pin=C6-2
+Added Pin To Net: NetName=Net*2_1 Pin=C7-1
+Added Pin To Net: NetName=Hi_groud Pin=C7-2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC8_2
+Added Member To Class: ClassName=SCH Member=Component *1 INDUCTOR UU9.8
+Added Member To Class: ClassName=SCH Member=Component *3 TNY264
+Added Member To Class: ClassName=SCH Member=Component C6 4.7uF
+Added Member To Class: ClassName=SCH Member=Component C11 104

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net*1_2 Pin=Fr1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=Fr1-2
+Removed Member From Class: ClassName=SCH Member=Fr1
+Change Component Footprint: Designator=C2 Old Footprint=tu 1206 New Footprint=tu tantalum dip5.08
+Added Component: Designator=D?(DIODE SMA)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000944"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode M7 1N4007 SMD 1A 1000V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*1_2 Pin=D?-1
+Added Pin To Net: NetName=NetC2_2 Pin=D?-2
+Added Member To Class: ClassName=SCH Member=Component D? 1N4007
+Added Member To Class: ClassName=SCH Member=Component L3 10uH - 3A
+Added Room: Name=SCH

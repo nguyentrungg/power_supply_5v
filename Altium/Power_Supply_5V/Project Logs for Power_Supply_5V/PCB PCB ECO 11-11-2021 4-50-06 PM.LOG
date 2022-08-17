@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Added Component: Designator=C6(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Lo_gnd Pin=C6-1
+Added Pin To Net: NetName=Net*2_2 Pin=C6-2
+Added Member To Class: ClassName=SCH Member=Component *2 Diode SS54 (1N5824)
+Added Member To Class: ClassName=SCH Member=Component *3 Varistor 471K
+Added Member To Class: ClassName=SCH Member=Component C3 4.7uF/400V
+Added Member To Class: ClassName=SCH Member=Component C4 470uF
+Added Member To Class: ClassName=SCH Member=Component C7 104
+Added Room: Name=SCH

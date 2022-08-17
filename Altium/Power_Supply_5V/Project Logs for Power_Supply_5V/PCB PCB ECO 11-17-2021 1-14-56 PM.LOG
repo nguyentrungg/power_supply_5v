@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Hi_groud Pin=D1-1
+Removed Pin From Net: NetName=Net*2_4 Pin=D1-2
+Removed Pin From Net: NetName=Net*2_2 Pin=D1-3
+Removed Pin From Net: NetName=NetC4_1 Pin=D1-4
+Added Component: Designator=D1(DIODE CAU 2A 3A CAM)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode C?u 2A 600V KBP206 Vuông"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Hi_groud Pin=D1-1
+Added Pin To Net: NetName=Net*2_4 Pin=D1-2
+Added Pin To Net: NetName=Net*2_2 Pin=D1-3
+Added Pin To Net: NetName=NetC4_1 Pin=D1-4
+Added Member To Class: ClassName=SCH Member=Component KF2 AC in
+Added Room: Name=SCH

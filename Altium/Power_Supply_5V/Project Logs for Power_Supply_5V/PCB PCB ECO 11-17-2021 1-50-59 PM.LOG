@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net*6_2 Pin=R4-1
+Removed Pin From Net: NetName=Net*3_1 Pin=R4-2
+Removed Member From Class: ClassName=SCH Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Added Pin To Net: NetName=Net*6_2 Pin=R4-1
+Added Pin To Net: NetName=Net*3_1 Pin=R4-2

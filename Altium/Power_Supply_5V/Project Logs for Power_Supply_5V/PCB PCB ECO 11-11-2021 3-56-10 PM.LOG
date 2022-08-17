@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=*2 Old Footprint=Varistor 471K New Footprint=tro nhiet d18
+Change Component Designator: OldDesignator=KF1 NewDesignator=KF2
+Change Net Name : Old Net Name=NetKF1_1 New Net Name=NetKF2_1
+Added Member To Class: ClassName=SCH Member=Component KF2 AC in
+Added Room: Name=SCH

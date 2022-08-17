@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Added Component: Designator=D2(DIODE 0.5A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4148 DO35 450mA 100V ( 1N4148 DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Dien tro)
+Added Component: Designator=R6(Dien tro)
+Added Component: Designator=R7(Dien tro)
+Added Component: Designator=R8(Dien tro)
+Added Pin To Net: NetName=Hi_groud Pin=*3-5
+Added Pin To Net: NetName=Net*3_1 Pin=R6-2
+Added Pin To Net: NetName=Net*7_1 Pin=R7-1
+Added Pin To Net: NetName=Net*7_4 Pin=R8-1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR9_1
+Added Pin To Net: NetName=Net*3_4 Pin=*3-4
+Added Pin To Net: NetName=Net*3_4 Pin=D2-1
+Added Net: Name=Net*3_4
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R7-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=SCH Member=Component D3 1N4973
+Added Member To Class: ClassName=SCH Member=Component R8 2M
+Added Member To Class: ClassName=SCH Member=Component R9 1k
+Added Member To Class: ClassName=SCH Member=Component R10 4.7k
+Added Member To Class: ClassName=SCH Member=Component R11 4.7k

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Net*3_2 Pin=*3-2
+Added Pin To Net: NetName=Net*3_2 Pin=*7-5
+Added Pin To Net: NetName=Net*3_2 Pin=D2-1
+Added Net: Name=Net*3_2
+Added Member To Class: ClassName=SCH Member=Component R4 200k

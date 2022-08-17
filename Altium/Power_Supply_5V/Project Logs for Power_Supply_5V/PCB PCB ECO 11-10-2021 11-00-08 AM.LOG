@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=NetF?_1 Pin=F?-1
+Removed Pin From Net: NetName=NetF?_1 Pin=F?-1
+Removed Pin From Net: NetName=NetF?_1 Pin=KF1-1
+Change Component Comment : Designator=KF1 Old Comment=CON 2 KF7.62 New Comment=AC Input
+Added Component: Designator=*(TL431 SOT-23-3)
+Added Component: Designator=*(SMD-8B)
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 4.7uF 400V 8x12MM"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Cap CBB)
+Added Component: Designator=C?(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 4.7uF 400V 8x12MM"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 470uF 16V 8x11MM"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Cap CBB)
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 102 1nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 102 1nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE SMA)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode SS14 DO214 Schottky 1A 40V ( 1N5819 DO214)"; VariantName = "[No Variations]"
+Added Component: Designator=F?(De Cau Chi 520 630)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001473"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Ð? C?u Chì 5x20MM 6x30MM SMD01"; VariantName = "[No Variations]"
+Added Component: Designator=Fr107(DIODE 2A DUNG)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode FR207 2A 1000V ( DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=KF?(CON 2 KF7.62)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF7.62-2P 7.62MM (Ðen Th?ng)"; VariantName = "[No Variations]"
+Added Component: Designator=L?(Inductor UU9.8)
+Added Component: Designator=L?(CUON CAM 100uH3A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Cu?n C?m 470uH 3A 8x10MM"; VariantName = "[No Variations]"
+Added Component: Designator=L?(LED-1206-Green)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED1206 Màu Xanh Lá (Green)"; VariantName = "[No Variations]"
+Added Component: Designator=NTC?(tro nhiet d18)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH00881124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Ði?n tr? nhi?t NTC 5D-18"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 5% 4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Dien tro)
+Added Component: Designator=R?(tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 5% 4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005895"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 1% 200R"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP4)
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=KF1-2
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=KF?-1
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Ground Pin=*-4
+Added Pin To Net: NetName=Ground Pin=C?-2
+Added Pin To Net: NetName=Ground Pin=C?-2
+Added Pin To Net: NetName=Ground Pin=C?-2
+Added Pin To Net: NetName=Ground Pin=D?-1
+Added Net: Name=Ground
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=C?-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R?-1
+Added Pin To Net: NetName=Net*_2 Pin=R?-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=U?-4
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=D?-1
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-2
+Added Pin To Net: NetName=NetC?_1 Pin=KF?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Fr107-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetKF1_1 Pin=KF1-1
+Added Pin To Net: NetName=NetKF1_1 Pin=NTC?-1
+Added Net: Name=NetKF1_1
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R?-1
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=SCH Member=Component * TL431
+Added Member To Class: ClassName=SCH Member=Component * TNY264
+Added Member To Class: ClassName=SCH Member=Component C? 104
+Added Member To Class: ClassName=SCH Member=Component C? 4.7uF
+Added Member To Class: ClassName=SCH Member=Component C? 0.47uF/1.6kV
+Added Member To Class: ClassName=SCH Member=Component C? 4.7uF
+Added Member To Class: ClassName=SCH Member=Component C? 470uF
+Added Member To Class: ClassName=SCH Member=Component C? 0.47uF/1.6kV
+Added Member To Class: ClassName=SCH Member=Component C? 1n 400V
+Added Member To Class: ClassName=SCH Member=Component C? 1n 400V
+Added Member To Class: ClassName=SCH Member=Component D? SS14
+Added Member To Class: ClassName=SCH Member=Component Fr107 2A 1000v
+Added Member To Class: ClassName=SCH Member=Component KF? DC output
+Added Member To Class: ClassName=SCH Member=Component L? Indutor
+Added Member To Class: ClassName=SCH Member=Component L? 470uH - 3A
+Added Member To Class: ClassName=SCH Member=Component L? LED 0805
+Added Member To Class: ClassName=SCH Member=Component NTC? 5D-18
+Added Member To Class: ClassName=SCH Member=Component R? 100K
+Added Member To Class: ClassName=SCH Member=Component R? 1k
+Added Member To Class: ClassName=SCH Member=Component R? 4.7k
+Added Member To Class: ClassName=SCH Member=Component R? 200R
+Added Member To Class: ClassName=SCH Member=Component U? OPTO PC817 SMD

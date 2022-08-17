@@ -1,0 +1,24 @@
+Added Component: Designator=*(Tranformer 12.7)
+Added Component: Designator=D?(DIODE CAU 2A 3A CAM)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode C?u 2A 600V KBP206 Vuông"; VariantName = "[No Variations]"
+Added Component: Designator=F?(De Cau Chi 520 630)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001473"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Ð? C?u Chì 5x20MM 6x30MM SMD01"; VariantName = "[No Variations]"
+Added Component: Designator=KF1(CON 2 KF7.62)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF7.62-2P 7.62MM (Ðen Th?ng)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=KF1-1
+Added Net: Name=NetF?_1
+Added Class: Name=SCH
+Added Room: Name=SCH

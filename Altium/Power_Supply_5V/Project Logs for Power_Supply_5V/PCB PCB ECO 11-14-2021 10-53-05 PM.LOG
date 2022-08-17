@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=Net*_1 Pin=C2-1
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=Lo_gnd Pin=C3-2
+Removed Pin From Net: NetName=NetKF2_1 Pin=NTC1-1
+Removed Member From Class: ClassName=SCH Member=C2
+Removed Member From Class: ClassName=SCH Member=C3
+Removed Member From Class: ClassName=SCH Member=F1
+Removed Member From Class: ClassName=SCH Member=NTC1
+Removed Member From Class: ClassName=SCH Member=ts1
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=1.2k
+Change Component Comment : Designator=D? Old Comment=1N4007 New Comment=1N4937
+Change Component Comment : Designator=R3 Old Comment=100K New Comment=200K
+Change Component Comment : Designator=C1 Old Comment=101 New Comment=101/1KV
+Change Component Comment : Designator=L2 Old Comment=150mH/3A New Comment=2.2mH/3A
+Added Component: Designator=*(Tu cao ap)
+Added Component: Designator=*(INDUCTOR UU9.8)
+Added Component: Designator=*(Tu keo vang 0.1uF)
+Added Component: Designator=C?(tu nhom 10 (G))
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007515"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 1000uF 10V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu nhom 10 (G))
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007515"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 1000uF 10V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu nhom 8 (f))
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001940"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 470uF 16V 8x10.4MM"; VariantName = "[No Variations]"
+Added Component: Designator=F?(De Cau Chi 520 630)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001473"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Ð? C?u Chì 5x20MM 6x30MM SMD01"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro nhiet d-9)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000922"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Ði?n tr? nhi?t NTC 10D-9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*2_2 Pin=C?-1
+Added Pin To Net: NetName=Net*2_2 Pin=C?-1
+Added Pin To Net: NetName=NetC3_1 Pin=C?-1
+Added Pin To Net: NetName=Lo_gnd Pin=C?-2
+Added Pin To Net: NetName=Lo_gnd Pin=C?-2
+Added Pin To Net: NetName=Lo_gnd Pin=C?-2
+Added Pin To Net: NetName=NetKF2_1 Pin=R?-1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC?_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-3
+Added Pin To Net: NetName=Net*_2 Pin=KF2-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=D1-2
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=R?-2
+Added Net: Name=NetF?_1
+Added Member To Class: ClassName=SCH Member=Component * Tu cao ap 2.2nF 1KV
+Added Member To Class: ClassName=SCH Member=Component * INDUCTOR UU9.8
+Added Member To Class: ClassName=SCH Member=Component * Tu keo vang 0.1uF
+Added Member To Class: ClassName=SCH Member=Component C? 1000uF
+Added Member To Class: ClassName=SCH Member=Component C? 1000uF
+Added Member To Class: ClassName=SCH Member=Component C? 470uF
+Added Member To Class: ClassName=SCH Member=Component F? 2A
+Added Member To Class: ClassName=SCH Member=Component R? 10D-9
+Added Room: Name=SCH

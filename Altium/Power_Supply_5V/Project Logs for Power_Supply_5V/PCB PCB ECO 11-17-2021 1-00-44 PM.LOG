@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=Net*2_1 Pin=F1-2
+Removed Pin From Net: NetName=Net*2_1 Pin=F1-2
+Removed Pin From Net: NetName=NetF1_1 Pin=R1-2
+Added Component: Designator=F1(De Cau Chi 520 630)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001473"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Ð? C?u Chì 5x20MM 6x30MM SMD01"; VariantName = "[No Variations]"
+Added Component: Designator=R1(tro nhiet d-9)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000922"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Ði?n tr? nhi?t NTC 10D-9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=KF2-1
+Added Pin To Net: NetName=Net*2_1 Pin=R1-2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=R1-1
+Added Net: Name=NetF1_2
+Added Room: Name=SCH

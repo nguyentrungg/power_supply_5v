@@ -1,0 +1,21 @@
+Added Component: Designator=C?(Cap CBB)
+Added Component: Designator=C?(Cap CBB)
+Added Component: Designator=L?(Inductor UU9.8)
+Added Member To Class: ClassName=SCH Member=Component * TL431
+Added Member To Class: ClassName=SCH Member=Component * TNY264
+Added Member To Class: ClassName=SCH Member=Component C? 0.47uF/1.6kV
+Added Member To Class: ClassName=SCH Member=Component C? 1n 400V
+Added Member To Class: ClassName=SCH Member=Component C? 104
+Added Member To Class: ClassName=SCH Member=Component C? 1n 400V
+Added Member To Class: ClassName=SCH Member=Component C? 0.47uF/1.6kV
+Added Member To Class: ClassName=SCH Member=Component C? 4.7uF
+Added Member To Class: ClassName=SCH Member=Component C? 4.7uF
+Added Member To Class: ClassName=SCH Member=Component D? SS14
+Added Member To Class: ClassName=SCH Member=Component F? 2A
+Added Member To Class: ClassName=SCH Member=Component L? Indutor
+Added Member To Class: ClassName=SCH Member=Component L? 470uH - 3A
+Added Member To Class: ClassName=SCH Member=Component R? 1k
+Added Member To Class: ClassName=SCH Member=Component R? 100K
+Added Member To Class: ClassName=SCH Member=Component R? 200R
+Added Member To Class: ClassName=SCH Member=Component R? 4.7k
+Added Member To Class: ClassName=SCH Member=Component R? 4.7k

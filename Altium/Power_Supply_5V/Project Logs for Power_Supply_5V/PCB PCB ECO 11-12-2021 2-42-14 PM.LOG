@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Net*2_2 Pin=L?-1
+Removed Pin From Net: NetName=NetC3_1 Pin=L?-2
+Removed Member From Class: ClassName=SCH Member=L?
+Change Component Comment : Designator=L2 Old Comment=1mH/3A New Comment=150mH/3A
+Change Component Designator: OldDesignator=*4 NewDesignator=*3
+Change Component Designator: OldDesignator=*5 NewDesignator=*4
+Change Component Designator: OldDesignator=ts NewDesignator=ts1
+Added Component: Designator=L3(Cuon Cam 7x7x5)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Cu?n C?m 100uH 3A 8x10MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*2_2 Pin=L3-1
+Added Pin To Net: NetName=NetC3_1 Pin=L3-2
+Change Net Name : Old Net Name=Net*4_1 New Net Name=Net*3_1
+Change Net Name : Old Net Name=Net*4_4 New Net Name=Net*3_4
+Change Net Name : Old Net Name=Net*5_1 New Net Name=Net*4_1
+Change Net Name : Old Net Name=Net*5_2 New Net Name=Net*4_2
+Added Member To Class: ClassName=SCH Member=Component L3 10uH 3A
+Added Room: Name=SCH

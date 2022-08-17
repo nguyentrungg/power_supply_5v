@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net*2_4 Pin=D1-2
+Removed Pin From Net: NetName=Net*2_2 Pin=D1-3
+Added Pin To Net: NetName=Net*2_2 Pin=D1-2
+Added Pin To Net: NetName=Net*2_4 Pin=D1-3
+Added Member To Class: ClassName=SCH Member=Component D1 2A 600V
+Added Room: Name=SCH

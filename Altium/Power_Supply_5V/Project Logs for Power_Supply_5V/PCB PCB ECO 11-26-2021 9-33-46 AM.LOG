@@ -1,0 +1,13 @@
+Added Component: Designator=C?(tu nhom 6.3 (d))
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 82uF 16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Hi_groud Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D2-2
+Added Pin To Net: NetName=NetC?_1 Pin=R6-2
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=SCH Member=Component C? 82uF

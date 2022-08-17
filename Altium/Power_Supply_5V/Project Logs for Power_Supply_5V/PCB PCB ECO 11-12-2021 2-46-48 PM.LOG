@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net*2_2 Pin=L3-1
+Removed Pin From Net: NetName=NetC3_1 Pin=L3-2
+Added Component: Designator=L3(CUON CAM 100uH3A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Cu?n C?m 470uH 3A 8x10MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*2_2 Pin=L3-1
+Added Pin To Net: NetName=NetC3_1 Pin=L3-2
+Added Room: Name=SCH
